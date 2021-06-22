@@ -1,6 +1,6 @@
 # ReactSlider
 
-This is a ReactTab which can see Reviews.
+This is a ReactSlider which can see Reviews.
 
 ## Built with: 
  
